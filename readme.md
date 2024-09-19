@@ -23,3 +23,9 @@ print(sum)
 ```
 
 Link to [Python](https://www.python.org/)
+
+# Installing numpy
+![Screenshot](image.png)
+
+# Me 95% of the time
+![Eepy](https://pbs.twimg.com/media/GAl7bcjWMAAXJ_H?format=jpg&name=medium)
